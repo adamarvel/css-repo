@@ -1,0 +1,15 @@
+ body{
+    background-color: beige;
+ }
+ h1 {
+    color: rebeccapurple ;
+    text-align: center;
+ }
+ p {
+    font-family: Arial;
+    font-size: 56px;
+ }
+ img{
+    width: 500px;
+    height: 500px;
+ }
