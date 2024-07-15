@@ -1,0 +1,82 @@
+body{
+    background-color:green;
+}
+/* h1{
+    color: blue;
+    background-color: black;
+    text-align: center;
+}
+h2{
+    color: blanchedalmond;
+    background-color: brown;
+    text-align: center;
+}
+h3{
+    color: aqua;
+    background-color: azure;
+    text-align: center;
+}
+h4{
+    color: blueviolet;
+    background-color: brown;
+    text-align: center;
+}
+h5{
+    color: blue;
+    background-color: aqua;
+    text-align: center;
+}
+h6{
+    color: black;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+image{
+    width: 300px;
+    height: 300px;
+}
+p{
+    color: blue;
+    background-color: darkgreen;
+    font-size: 24px;
+    font-family: Cambria;
+} */
+ span+h1{
+    color: blueviolet;
+ }
+ h1+p{
+    color: brown;
+ }
+ p+h2{
+    color: red;
+ }
+ h3+p{
+    color:blue
+ }
+ p+h4{ color: blueviolet;
+
+ }
+ h5+p{
+    color: green;
+ }
+ p+h6{
+    color: blue;
+ }
+ p+h1{
+    color: red;
+ }
+ h2+p{
+    color: red;
+ }
+ p+h3{
+    color: red;
+ }
+ h4+p{
+    color:green ;
+ }
+ p+h5{
+    color:red;
+ }
+ h6+p{
+    color: orange;
+ }
