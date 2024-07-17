@@ -1,12 +1,37 @@
 .h1{
     border: 2px solid red;
+    padding:50px;
+    margin: 50px;
 }
 .h2{
     border:dotted blue;
+    padding-left: 50px;
+    margin-left: 50px;
 }
 .h3{
     border:dashed green;
+    padding-right: 50px;
+    margin-right: 50px;
 }
 .h4{
     border:2px double orange;
+    padding-top: 50px;
+    margin-top: 5;
 }
+.h5{
+    border: 2px double blue;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+}
+.h6{
+    border: 2px solid red;
+    padding: 50px 20px 30px 10px;
+    margin: 50px 20px 30px 10px;
+    
+}
+.new{
+    border: 2px solid green;
+    padding: 50px 20px 0;
+    margin: 50px 20px 0;
+}
+
